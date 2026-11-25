@@ -1,0 +1,46 @@
+header{
+    border: 1px solid #1f1e1e;
+    background-color: #1f1e1e;
+
+}
+h1{
+    color: aliceblue;
+    font-size: 50px;
+}
+
+div.cykelicon{
+    display: flex;
+    justify-content: space-around;
+
+}
+img.icon{
+    width: 250px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    margin-top: 40px;
+
+}
+
+img.cykel{
+    width: 700px;
+    float: left;
+}
+
+
+article{
+    color: aliceblue;
+    margin-top: 50px;
+
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+}
+
+p{
+    font-size: 26px;
+}
